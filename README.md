@@ -3,7 +3,7 @@
 🎓 AI/ML Enthusiast | 📍 Kaduna, Nigeria  
 🔭 Currently building real-world intelligent systems using Machine Learning, NLP, and Computer Vision.  
 📘 Student of the 3MTT Nigeria DeepTech Program (AI/ML Track) – Certification expected July 2025  
-🎥 Sharing tech insights on YouTube: [engryina]((https://www.youtube.com/@engryina800))  
+🎥 Sharing tech insights on YouTube: [Engr Yina]([(https://www.youtube.com/@engryina800)])  
 
 ---
 
@@ -49,7 +49,7 @@ Used computer vision to analyze real-time traffic flow from video datasets
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vershima-matthew-yina)
 - 📧 monsieurrapu@gmail.com
-- 🖥️ [YouTube – Engr Yina]([(https://www.youtube.com/@engryina800))
+- 🖥️ [YouTube – Engr Yina]([(https://www.youtube.com/@engryina800)])
 
 ---
 
